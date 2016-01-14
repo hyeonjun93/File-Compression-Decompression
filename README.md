@@ -7,7 +7,7 @@ d = To decompress
 
 
 
-While compressing, use:
+While compressing/decompressing, use:
 
 a.out z input.c output.c
 
